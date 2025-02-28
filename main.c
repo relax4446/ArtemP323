@@ -8,6 +8,6 @@ char first[255], last[255];
 
 askname(first, last);
 
-printf("Hello, %s %s!\n", first, last);
+printf("Paris, %s %s!\n", first, last);
 return 0;
 }
